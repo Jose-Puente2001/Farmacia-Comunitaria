@@ -1,0 +1,38 @@
+body{
+    margin: 35px 250px;
+    background-color:whitesmoke;
+    text-decoration:none;
+}
+h1{
+    text-align:center;
+    color:blue;
+}
+
+#tabla{
+    
+    border-style:solid;
+    border-color:white;
+    background-color:white;
+    padding: 15px 70px;
+    height:320px 200px;
+    
+}
+input{
+    border-style:solid;
+    margin:5px 45px;
+    padding:5px 10px;
+    width:15px 20px;
+    height:20px 15px;
+}
+label{
+    margin:5px 45px;
+    font-size: 1.2em;
+}
+a{
+    border:solid 2px;
+    text-decoration:none;
+    color:black;
+    background-color:whitesmoke;
+    padding:4px 5px;
+    margin:20px 1px;
+}

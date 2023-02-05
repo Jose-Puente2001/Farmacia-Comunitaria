@@ -1,0 +1,43 @@
+header{
+    background-color: darkblue;
+    text-align: center;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+}
+
+h1{
+    color: white;
+}
+
+nav{
+    background: darkblue;
+    height: 70px;
+}
+
+nav ul li{
+    float: left;
+    list-style: none;
+    margin: 20px;
+    font-weight: 300;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.cerrar{
+    float: right;
+    list-style: none;
+    margin: 20px;
+    font-weight: 300;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.clearfix{
+    clear: both;
+}
